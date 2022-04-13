@@ -1,0 +1,43 @@
+_repo: A-Marriage-in-High-Life-Volume-I_67669
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Scott, Lady (Caroline Lucy)
+    aliases:
+    - Scott, Caroline Lucy, Lady
+    - Douglas, Caroline Lucy
+    birthdate: 1784
+    deathdate: 1857
+    gutenberg_agent_id: '54389'
+    url: http://www.gutenberg.org/2009/agents/54389
+    wikipedia: https://en.wikipedia.org/wiki/Caroline_Lucy_Scott
+  editor:
+    agent_name: Bury, Charlotte Campbell, Lady
+    birthdate: 1775
+    deathdate: 1861
+    gutenberg_agent_id: '33772'
+    url: http://www.gutenberg.org/2009/agents/33772
+    wikipedia: https://en.wikipedia.org/wiki/Lady_Charlotte_Bury
+description: ''
+gutenberg_issued: '2022-03-20'
+identifiers:
+  gutenberg: '67669'
+language: en
+pgterms:marc904: https://archive.org/details/marriageinhighli01scott
+pgterms:marc905: 20211120083601scott
+pgterms:marc906: '1828'
+pgterms:marc907: UK
+production_note: Fay Dunn, Barry Abrahamsen, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: UK :Henry Colburn,1828.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Marriage -- Fiction'
+- !lcsh 'Great Britain -- Social life and customs -- 19th century -- Fiction'
+- GITenberg
+title: A Marriage in High Life, Volume I
+url: http://www.gutenberg.org/ebooks/67669
